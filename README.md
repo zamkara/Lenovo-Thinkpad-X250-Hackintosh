@@ -49,5 +49,6 @@ Versi Bootloader | v0.7.9
 - [Racka](https://github.com/racka98)
 - [Hackintosh Lover](https://t.me/HackintoshLover)
 
-## [Download Here](https://github.com/zamprjkt/Lenovo-Thinkpad-X250-Hackintosh/releases)
-
+<p align="left">
+<a href="https://github.com/zamprjkt/Lenovo-Thinkpad-X250-Hackintosh/releases" target="blank"><img align="left" src="https://raw.githubusercontent.com/zamprjkt/Lenovo-Thinkpad-X250-Hackintosh/Opencore/screenshot/down.png" /></a>
+</p>
