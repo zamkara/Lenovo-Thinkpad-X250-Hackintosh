@@ -20,6 +20,17 @@ Versi Bootloader | v0.7.9
 - Monterey (Not Tested)
 - Bigsur (Tested, OpenCore)
 
+# Bios
+- `Security -> Security Chip`: **Disabled**;
+- `Memory Protection -> Execution Prevention`: **Enabled**;
+- `Virtualization -> Intel Virtualization Technology`: **Enabled**;
+- `Virtualization -> Vt-directed IO`: **Disabled**;
+- `Internal Device Access -> Bottom Cover Tamper Detection`: must be **Disabled**;
+- `Anti-Theft -> Computrace -> Current Setting`: **Disabled**;
+- `Secure Boot -> Secure Boot`: **Disabled**;
+- `UEFI/Legacy Boot`: **UEFI Only**;
+- `CSM Support`: **No**.
+
 ## What's Working?
 - QE/CI Intel HD Graphics 5500 (BigSur)
 - Power Management (BigSur)
@@ -35,6 +46,7 @@ Versi Bootloader | v0.7.9
 - [Ikhsaan](https://github.com/exxncss) my cool teacher
 - [Friction • RK800](https://t.me/gerobaksariroti) help improve audio
 - [Irawan](https://t.me/irawansalt)
+- [Racka](https://github.com/racka98)
 - [Hackintosh Lover](https://t.me/HackintoshLover)
 
 ## [Download Here](https://github.com/zamprjkt/Lenovo-Thinkpad-X250-Hackintosh/releases)
