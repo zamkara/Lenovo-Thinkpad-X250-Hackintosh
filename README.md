@@ -32,8 +32,8 @@ BigSur (OC)
 - etc
 
 ## Credits:
-- [Ikhsaan](https://github.com/exxncss) <- my cool teacher
-- [Friction • RK800](https://t.me/gerobaksariroti) <- help improve audio
+- [Ikhsaan](https://github.com/exxncss) my cool teacher
+- [Friction • RK800](https://t.me/gerobaksariroti) help improve audio
 - [Irawan](https://t.me/irawansalt)
 - [Hackintosh Lover](https://t.me/HackintoshLover)
 
