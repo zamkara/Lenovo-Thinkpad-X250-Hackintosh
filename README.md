@@ -14,7 +14,9 @@ Versi Bootloader | v0.7.9
 
 ## Screenshot
 ![img](https://img.shields.io/badge/Last%20Update-March-red) ![img](https://img.shields.io/badge/macOS%20Support-Bigsur-blue) ![img](https://img.shields.io/badge/OpenCore%20Version-0.7.9-yellow)
-![BigSur 11.6.5](https://raw.githubusercontent.com/zamprjkt/Lenovo-Thinkpad-X250-Hackintosh/Opencore/screenshot/Jepretan%20Layar%202022-03-28%20pukul%2001.14.04.png)
+<p align="left">
+<a href="https://raw.githubusercontent.com/zamprjkt/Lenovo-Thinkpad-X250-Hackintosh/Opencore/screenshot/2022-03-28.png" target="blank"><img align="center" src="https://raw.githubusercontent.com/zamprjkt/Lenovo-Thinkpad-X250-Hackintosh/Opencore/screenshot/Jepretan%20Layar%202022-03-28%20pukul%2001.14.04.png" /></a>
+</p>
 
 ## MacOS
 - Monterey (Not Tested)
