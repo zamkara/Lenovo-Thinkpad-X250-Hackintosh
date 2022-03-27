@@ -1,4 +1,4 @@
-##Lenovo x250 EFI Opencore
+## Lenovo x250 EFI Opencore
 
 ## Specification
 Spesifikasi | Keterangan
