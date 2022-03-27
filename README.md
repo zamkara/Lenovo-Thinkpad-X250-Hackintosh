@@ -37,3 +37,5 @@ BigSur (OC)
 - [Irawan](https://t.me/irawansalt)
 - [Hackintosh Lover](https://t.me/HackintoshLover)
 
+## [Download Here](https://github.com/zamprjkt/Lenovo-Thinkpad-X250-Hackintosh/releases)
+
