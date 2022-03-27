@@ -1,0 +1,1 @@
+# Lenovo-Thinkpad-X250-Hackintosh
