@@ -1,4 +1,4 @@
-## Lenovo x250 EFI Opencore
+# Lenovo x250 EFI Opencore
 
 ## Specification
 Spesifikasi | Keterangan
@@ -13,7 +13,7 @@ Bootloader | OpenCore
 Versi Bootloader | v0.7.9
 
 ## Screenshot
-# BigSur (OC)
+BigSur (OC)
 ![BigSur 11.6.5](https://raw.githubusercontent.com/zamprjkt/Lenovo-Thinkpad-X250-Hackintosh/main/screenshot/2022-03-28.png)
 
 ## MacOS
