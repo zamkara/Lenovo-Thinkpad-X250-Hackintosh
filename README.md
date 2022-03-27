@@ -11,10 +11,9 @@ Storage 2 | 256GB Midasforce M2.2242 SSD
 Wireless Card | Intel AC-7265 Dual Band + Bluetooth
 Bootloader | OpenCore
 Versi Bootloader | v0.7.9
-![img](https://img.shields.io/badge/Last%20Update-March-red) ![img](https://img.shields.io/badge/macOS%20Support-Bigsur-blue) ![img](https://img.shields.io/badge/OpenCore%20Version-0.7.9-yellow)
 
 ## Screenshot
-BigSur (OC)
+![img](https://img.shields.io/badge/Last%20Update-March-red) ![img](https://img.shields.io/badge/macOS%20Support-Bigsur-blue) ![img](https://img.shields.io/badge/OpenCore%20Version-0.7.9-yellow)
 ![BigSur 11.6.5](https://raw.githubusercontent.com/zamprjkt/Lenovo-Thinkpad-X250-Hackintosh/Opencore/screenshot/Jepretan%20Layar%202022-03-28%20pukul%2001.14.04.png)
 
 ## MacOS
