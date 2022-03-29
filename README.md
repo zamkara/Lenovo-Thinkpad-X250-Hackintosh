@@ -13,7 +13,7 @@ Bootloader | OpenCore
 Versi Bootloader | v0.7.9
 
 ## Screenshot
-![img](https://img.shields.io/badge/Last%20Update-March-red) ![img](https://img.shields.io/badge/macOS%20Support-Monterey-purple) ![img](https://img.shields.io/badge/OpenCore%20Version-0.7.9-yellow)
+![img](https://img.shields.io/badge/Last%20Update-March-red) ![img](https://img.shields.io/badge/macOS%20Support-Monterey-purple) ![img](https://img.shields.io/badge/OpenCore%20Version-0.7.9-green)
 <p align="left">
 <a href="https://raw.githubusercontent.com/zamprjkt/Lenovo-Thinkpad-X250-Hackintosh/Opencore/screenshot/mvdsvcsdv.png" target="blank"><img align="center" src="https://raw.githubusercontent.com/zamprjkt/Lenovo-Thinkpad-X250-Hackintosh/Opencore/screenshot/Jepretan%20Layar%202022-03-30%20pukul%2000.43.29.png" /></a>
 </p>
