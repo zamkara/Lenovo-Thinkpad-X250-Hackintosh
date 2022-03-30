@@ -51,7 +51,7 @@ Versi Bootloader | v0.7.9
 
 ## Credits:
 - [Ikhsaan](https://github.com/exxncss) my cool teacher
-- [Friction • RK800](https://t.me/gerobaksariroti) help improve audio
+- [Friction • RK800](https://t.me/gerobaksariroti) help fix some bugs
 - [Irawan](https://t.me/irawansalt)
 - [Racka](https://github.com/racka98)
 - [Hackintosh Lover](https://t.me/HackintoshLover)
