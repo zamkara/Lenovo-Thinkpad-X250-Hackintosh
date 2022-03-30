@@ -24,8 +24,10 @@ Versi Bootloader | v0.7.9
 </p>
 
 ## MacOS
-- Monterey (Not Tested)
+- Monterey (Tested, OpenCore)
 - Bigsur (Tested, OpenCore)
+> AirpoAirportitwlm needs to be replaced according to the OS version used, the latest airportitwlm default is Monterey.
+> To download Airportitwlm [click here](https://github.com/OpenIntelWireless/itlwm/releases)
 
 # Bios
 - `Security -> Security Chip`: **Disabled**;
@@ -39,14 +41,14 @@ Versi Bootloader | v0.7.9
 - `CSM Support`: **No**.
 
 ## What's Working?
-- QE/CI Intel HD Graphics 5500 (BigSur)
-- Power Management (BigSur)
-- Sleep, Shutdown, Restart (BigSur (sleep not tested))
-- Audio Speaker & Earphone (BigSur)
-- Bluetooth (BigSur)
-- Trackpad, Trackball, Gestures (BigSur)
-- Indikator baterai (BigSur)
-- Camera (BigSur)
+- QE/CI Intel HD Graphics 5500 (BigSur,Monterey)
+- Power Management (BigSur,Monterey)
+- Sleep, Shutdown, Restart (BigSur,Monterey (sleep not tested))
+- Audio Speaker & Earphone (BigSur,Monterey)
+- Bluetooth (BigSur,Monterey)
+- Trackpad, Trackball, Gestures (BigSur,Monterey)
+- Indikator baterai (BigSur,Monterey)
+- Camera (BigSur,Monterey)
 - etc
 
 ## Credits:
