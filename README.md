@@ -24,7 +24,7 @@ Versi Bootloader | v0.7.9
 </p>
 
 <p>You can download the MacOS installation at the following link</p>
-##[Click here](https://sharing.zamprjkt.workers.dev/0:/OS/MacOS/)
+[click here](https://sharing.zamprjkt.workers.dev/0:/OS/MacOS/)
 
 ## MacOS
 - Monterey (Tested, OpenCore)
