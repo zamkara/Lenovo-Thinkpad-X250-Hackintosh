@@ -23,6 +23,9 @@ Versi Bootloader | v0.7.9
 <a href="https://raw.githubusercontent.com/zamprjkt/Lenovo-Thinkpad-X250-Hackintosh/Opencore/screenshot/2022-03-28.png" target="blank"><img align="center" src="https://raw.githubusercontent.com/zamprjkt/Lenovo-Thinkpad-X250-Hackintosh/Opencore/screenshot/Jepretan%20Layar%202022-03-28%20pukul%2001.14.04.png" /></a>
 </p>
 
+<p>You can download the MacOS installation at the following link</p>
+##[Click here](https://sharing.zamprjkt.workers.dev/0:/OS/MacOS/)
+
 ## MacOS
 - Monterey (Tested, OpenCore)
 - Bigsur (Tested, OpenCore)
