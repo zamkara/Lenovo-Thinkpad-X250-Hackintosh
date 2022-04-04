@@ -13,23 +13,29 @@ Bootloader | OpenCore
 Versi Bootloader | v0.7.9
 
 ## Screenshot
-![img](https://img.shields.io/badge/Last%20Update-March-red) ![img](https://img.shields.io/badge/macOS%20Support-Monterey-purple) ![img](https://img.shields.io/badge/OpenCore%20Version-0.7.9-green)
-<p align="left">
-<a href="https://raw.githubusercontent.com/zamprjkt/Lenovo-Thinkpad-X250-Hackintosh/Opencore/screenshot/mvdsvcsdv.png" target="blank"><img align="center" src="https://raw.githubusercontent.com/zamprjkt/Lenovo-Thinkpad-X250-Hackintosh/Opencore/screenshot/Jepretan%20Layar%202022-03-30%20pukul%2000.43.29.png" /></a>
+<p align="center">
+  <kbd><br>M O N T E R E Y
+  <br><br>
+  <kbd><img src="https://raw.githubusercontent.com/zamprjkt/Lenovo-Thinkpad-X250-Hackintosh/Opencore/screenshot/Jepretan%20Layar%202022-04-05%20pukul%2005.41.59.png"/></kbd></kbd>
+<p align="center">
+  <kbd><br>B A T T E R Y
+  <br><br>
+  <kbd><img src="https://raw.githubusercontent.com/zamprjkt/Lenovo-Thinkpad-X250-Hackintosh/Opencore/screenshot/Jepretan%20Layar%202022-04-05%20pukul%2005.59.36.png"/></kbd></kbd>
+</p>
+<p align="center">
+  <kbd><br>S O U N D
+  <br><br>
+  <kbd><img src="https://raw.githubusercontent.com/zamprjkt/Lenovo-Thinkpad-X250-Hackintosh/Opencore/screenshot/Jepretan%20Layar%202022-04-05%20pukul%2005.55.56.png"/></kbd></kbd>
 </p>
 
-![img](https://img.shields.io/badge/Last%20Update-March-red) ![img](https://img.shields.io/badge/macOS%20Support-Bigsur-blue) ![img](https://img.shields.io/badge/OpenCore%20Version-0.7.9-yellow)
-<p align="left">
-<a href="https://raw.githubusercontent.com/zamprjkt/Lenovo-Thinkpad-X250-Hackintosh/Opencore/screenshot/2022-03-28.png" target="blank"><img align="center" src="https://raw.githubusercontent.com/zamprjkt/Lenovo-Thinkpad-X250-Hackintosh/Opencore/screenshot/Jepretan%20Layar%202022-03-28%20pukul%2001.14.04.png" /></a>
-</p>
-
-You can download the MacOS installation at the following link, [click here](https://sharing.zamprjkt.workers.dev/0:/OS/MacOS/)
+### GetMacOS
+You can download the MacOS installation at the following link, [`Download Here`](https://sharing.zamprjkt.workers.dev/0:/OS/MacOS/)
 
 ## MacOS
 - Monterey (Tested, OpenCore)
 - Bigsur (Tested, OpenCore)
 > AirpoAirportitwlm needs to be replaced according to the OS version used, the latest airportitwlm default is Monterey.
-> To download Airportitwlm [click here](https://github.com/OpenIntelWireless/itlwm/releases)
+> To download Airportitwlm [`click here`](https://github.com/OpenIntelWireless/itlwm/releases)
 
 # Bios
 - `Security -> Security Chip`: **Disabled**;
@@ -78,6 +84,7 @@ This will do 5 things for us:
 - [Friction • RK800](https://t.me/gerobaksariroti) help fix some bugs
 - [Irawan](https://t.me/irawansalt)
 - [Racka](https://github.com/racka98)
+- [Vcyzteen](https://github.com/vcyzteen) wallpaper on Post
 - [Hackintosh Lover](https://t.me/HackintoshLover)
 
 ## Download
