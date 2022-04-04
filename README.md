@@ -53,6 +53,26 @@ You can download the MacOS installation at the following link, [click here](http
 - Camera (BigSur,Monterey)
 - etc
 
+# Tips 
+
+Help Fix Screen Sleep
+
+```bash
+sudo pmset autopoweroff 0
+sudo pmset powernap 0
+sudo pmset standby 0
+sudo pmset proximitywake 0
+sudo pmset tcpkeepalive 0
+```
+
+This will do 5 things for us:
+
+- `Disables` **autopoweroff**: This is a form of hibernation
+- `Disables` **powernap**: Used to periodically wake the machine for network, and updates(but not the display)
+- `Disables` **standby**: Used as a time period between sleep and going into hibernation
+- `Disables` wake from iPhone/Watch: Specifically when your iPhone or Apple Watch come near, the machine will wake
+- `Disables` **TCP Keep Alive** mechanism to prevent wake ups every 2 hours
+
 ## Credits:
 - [Ikhsaan](https://github.com/exxncss) my cool teacher
 - [Friction • RK800](https://t.me/gerobaksariroti) help fix some bugs
