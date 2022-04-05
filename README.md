@@ -49,14 +49,14 @@ You can download the MacOS installation at the following link, [`Download Here`]
 - `CSM Support`: **No**.
 
 ## What's Working?
-- QE/CI Intel HD Graphics 5500 (BigSur,Monterey)
-- Power Management (BigSur,Monterey)
-- Sleep, Shutdown, Restart (BigSur,Monterey (sleep not tested))
-- Audio Speaker & Earphone (BigSur,Monterey)
-- Bluetooth (BigSur,Monterey)
-- Trackpad, Trackball, Gestures (BigSur,Monterey)
-- Indikator baterai (BigSur,Monterey)
-- Camera (BigSur,Monterey)
+- QE/CI Intel HD Graphics 5500 `BigSur` `Monterey`
+- Power Management `BigSur` `Monterey`
+- Sleep, Shutdown, Restart `BigSur` `Monterey` `[sleep not tested]`
+- Audio Speaker & Earphone `BigSur` `Monterey`
+- Bluetooth `BigSur` `Monterey`
+- Trackpad, Trackball, Gestures `BigSur` `Monterey`
+- Indikator baterai `BigSur` `Monterey`
+- Camera `BigSur` `Monterey`
 - etc
 
 # Tips 
