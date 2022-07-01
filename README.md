@@ -8,11 +8,11 @@ Storage 1 | 512GB Toshiba HDD Sata
 Storage 2 | 256GB Midasforce M2.2242 SSD
 Wireless Card | Intel AC-7265 Dual Band + Bluetooth
 Bootloader | OpenCore
-Versi Bootloader | v0.8.1
+Versi Bootloader | v0.8.2
 
 ## Screenshot
 <p align="center">
-  <kbd><br>M O N T E R E Y 12.5 Beta 4
+  <kbd><br>M O N T E R E Y 12.5 Beta
   <br><br>
   <kbd><img src="https://github.com/zamprjkt/Lenovo-Thinkpad-X250-Hackintosh/raw/Opencore/screenshot/Screencrot%202022-07-01%20at%2018.58.33.png"/></kbd></kbd>
   <br><br>
