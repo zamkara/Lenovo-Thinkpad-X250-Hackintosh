@@ -12,13 +12,13 @@ Versi Bootloader | v0.8.2
 
 ## Screenshot
 <p align="center">
-  <kbd><br>M O N T E R E Y 12.5 Beta
+  <kbd><br>M O N T E R E Y 12.6
+  <br><br>
+  <kbd><img src="https://github.com/zamprjkt/Lenovo-Thinkpad-X250-Hackintosh/raw/Opencore/screenshot/Screen%20Shot%202022-09-21%20at%2018.07.19.png"/></kbd></kbd>
+  <br><br>
+  <kbd><br>M O N T E R E Y 12.5
   <br><br>
   <kbd><img src="https://github.com/zamprjkt/Lenovo-Thinkpad-X250-Hackintosh/raw/Opencore/screenshot/Screencrot%202022-07-01%20at%2018.58.33.png"/></kbd></kbd>
-  <br><br>
-  <kbd><br>M O N T E R E Y
-  <br><br>
-  <kbd><img src="https://raw.githubusercontent.com/zamprjkt/Lenovo-Thinkpad-X250-Hackintosh/Opencore/screenshot/Jepretan%20Layar%202022-04-05%20pukul%2005.41.59.png"/></kbd></kbd>
 <p align="center">
   <kbd><br>B A T T E R Y
   <br><br>
