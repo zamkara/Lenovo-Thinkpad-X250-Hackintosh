@@ -31,7 +31,7 @@ Versi Bootloader | v0.8.2
 </p>
 
 ### GetMacOS
-You can download the MacOS installation at the following link, [`Download Here`](https://sharing.zamprjkt.workers.dev/0:/OS/MacOS/)
+You can download the MacOS installation at the following link, [`Download Here`](https://www.olarila.com/topic/6278-new-vanilla-olarila-images/)
 
 ## MacOS
 - Monterey (Tested, OpenCore)
