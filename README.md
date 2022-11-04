@@ -8,7 +8,7 @@ Storage 1 | 512GB Toshiba HDD Sata
 Storage 2 | 256GB Midasforce M2.2242 SSD
 Wireless Card | Intel AC-7265 Dual Band + Bluetooth
 Bootloader | OpenCore
-Versi Bootloader | v0.8.2
+Versi Bootloader | v0.8.6
 
 ## Screenshot
 <p align="center">
