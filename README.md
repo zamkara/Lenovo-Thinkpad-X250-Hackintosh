@@ -12,7 +12,7 @@ Versi Bootloader | v0.8.6
 
 ## Screenshot
 <p align="center">
-  <kbd><br>V E N T U R A 13.6.4
+  <kbd><br>V E N T U R A 13.6.4 (coming soon)
   <br><br>
   <kbd><img src="https://github.com/zamkara/Lenovo-Thinkpad-X250-Hackintosh/blob/Opencore/screenshot/Screenshot%202024-02-14%20at%2005.50.22.png"/></kbd></kbd>
   <br><br>
@@ -54,33 +54,10 @@ You can download the MacOS installation at the following link, [`Download Here`]
 - Camera `BigSur` `Monterey` `Ventura`
 - etc
 
-# Tips 
-
-Help Fix Screen Sleep
-
-```bash
-sudo pmset autopoweroff 0
-sudo pmset powernap 0
-sudo pmset standby 0
-sudo pmset proximitywake 0
-sudo pmset tcpkeepalive 0
-```
-
-This will do 5 things for us:
-
-- `Disables` **autopoweroff**: This is a form of hibernation
-- `Disables` **powernap**: Used to periodically wake the machine for network, and updates(but not the display)
-- `Disables` **standby**: Used as a time period between sleep and going into hibernation
-- `Disables` wake from iPhone/Watch: Specifically when your iPhone or Apple Watch come near, the machine will wake
-- `Disables` **TCP Keep Alive** mechanism to prevent wake ups every 2 hours
-
 ## Credits:
-- [Ikhsaan](https://github.com/exxncss) my cool teacher
-- [Friction • RK800](https://t.me/gerobaksariroti) help fix some bugs
+- [Ikhsaan](https://github.com/exxncss)
+- [Friction • RK800](https://t.me/gerobaksariroti)
 - [Irawan](https://t.me/irawansalt)
-- [Racka](https://github.com/racka98)
-- [Vcyzteen](https://github.com/vcyzteen) wallpaper on Post
-- [Hackintosh Lover](https://t.me/HackintoshLover)
 
 ## Download
 click the button below to download EFI
