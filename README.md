@@ -12,25 +12,21 @@ Versi Bootloader | v0.8.6
 
 ## Screenshot
 <p align="center">
+  <kbd><br>V E N T U R A 13.6.4
+  <br><br>
+  <kbd><img src="https://github.com/zamkara/Lenovo-Thinkpad-X250-Hackintosh/blob/Opencore/screenshot/Screenshot%202024-02-14%20at%2005.50.22.png"/></kbd></kbd>
+  <br><br>
+<p align="center">
   <kbd><br>M O N T E R E Y 12.6
   <br><br>
   <kbd><img src="https://github.com/zamprjkt/Lenovo-Thinkpad-X250-Hackintosh/raw/Opencore/screenshot/Screen%20Shot%202022-09-21%20at%2018.07.19.png"/></kbd></kbd>
   <br><br>
-<p align="center">
-  <kbd><br>B A T T E R Y
-  <br><br>
-  <kbd><img src="https://raw.githubusercontent.com/zamprjkt/Lenovo-Thinkpad-X250-Hackintosh/Opencore/screenshot/Jepretan%20Layar%202022-04-05%20pukul%2005.59.36.png"/></kbd></kbd>
-</p>
-<p align="center">
-  <kbd><br>S O U N D
-  <br><br>
-  <kbd><img src="https://raw.githubusercontent.com/zamprjkt/Lenovo-Thinkpad-X250-Hackintosh/Opencore/screenshot/Jepretan%20Layar%202022-04-05%20pukul%2005.55.56.png"/></kbd></kbd>
-</p>
 
 ### GetMacOS
 You can download the MacOS installation at the following link, [`Download Here`](https://www.olarila.com/topic/6278-new-vanilla-olarila-images/)
 
 ## MacOS
+- Ventura (Tested, OpenCore)
 - Monterey (Tested, OpenCore)
 - Bigsur (Tested, OpenCore)
 > AirpoAirportitwlm needs to be replaced according to the OS version used, the latest airportitwlm default is Monterey.
@@ -48,14 +44,14 @@ You can download the MacOS installation at the following link, [`Download Here`]
 - `CSM Support`: **No**.
 
 ## What's Working?
-- QE/CI Intel HD Graphics 5500 `BigSur` `Monterey`
-- Power Management `BigSur` `Monterey`
-- Sleep, Shutdown, Restart `BigSur` `Monterey` `[sleep not tested]`
-- Audio Speaker & Earphone `BigSur` `Monterey`
-- Bluetooth `BigSur` `Monterey`
-- Trackpad, Trackball, Gestures `BigSur` `Monterey`
-- Indikator baterai `BigSur` `Monterey`
-- Camera `BigSur` `Monterey`
+- QE/CI Intel HD Graphics 5500 `BigSur` `Monterey` `Ventura`
+- Power Management `BigSur` `Monterey` `Ventura`
+- Sleep, Shutdown, Restart `BigSur` `Monterey` `Ventura`
+- Audio Speaker & Earphone `BigSur` `Monterey` `Ventura`
+- Bluetooth `BigSur` `Monterey` `Ventura`
+- Trackpad, Trackball, Gestures `BigSur` `Monterey` `Ventura`
+- Indikator baterai `BigSur` `Monterey` `Ventura`
+- Camera `BigSur` `Monterey` `Ventura`
 - etc
 
 # Tips 
