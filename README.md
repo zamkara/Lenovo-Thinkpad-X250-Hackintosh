@@ -3,7 +3,7 @@ Spesifikasi | Keterangan
 ----------- | -----------
 Processor | Intel Core i5-5300U
 Integrated Graphics | Intel HD Graphics 5500
-Memory | SK-Hynix 8GB DDR3L
+Memory | Kingston 8GB DDR3L
 Storage 1 | 512GB Toshiba HDD Sata
 Storage 2 | 256GB Midasforce M2.2242 SSD
 Wireless Card | Intel AC-7265 Dual Band + Bluetooth
