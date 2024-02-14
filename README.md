@@ -5,7 +5,7 @@
 
 <br><br>
 
-<img src="https://github.com/zamkara/Lenovo-Thinkpad-X250-Hackintosh/blob/Opencore/screenshot/Screenshot%202024-02-14%20at%2017.54.38.png" alt="img" align="right" width="450px">
+<img src="https://github.com/zamkara/Lenovo-Thinkpad-X250-Hackintosh/blob/Opencore/screenshot/Screenshot%202024-02-14%20at%2017.54.38.png" alt="img" align="right" width="420px">
 <br/><br/>
 
 ## Disclaimer ⚠️
